@@ -1,2 +1,2 @@
 New readme file
-gpg varification at least now
+gpg varification at least now.
